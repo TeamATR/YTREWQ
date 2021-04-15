@@ -1,0 +1,4 @@
+numpy==1.18.1
+ocrd-fork-pylsd==0.0.3
+opencv-python==4.2.0.32
+pylsd==0.0.2

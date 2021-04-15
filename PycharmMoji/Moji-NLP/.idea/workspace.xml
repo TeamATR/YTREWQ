@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6082336b-f5d0-473b-bbe6-7588da8f8849" name="Default Changelist" comment="Ginza追加">
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_calc_matches_knn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_calc_matches_knn_img_rot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_detect_line_CannyHoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_detect_line_HoughJOUKEN-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_detect_line_HoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_detect_line_lsd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_detect_line_lsd2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_detect_object_matchTemplate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_original_image_grayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/13_05_25_Feb_original_image_grayscale_HAN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_calc_matches_knn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_calc_matches_knn_img_rot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_detect_line_CannyHoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_detect_line_HoughJOUKEN-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_detect_line_HoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_detect_line_lsd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_detect_line_lsd2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_detect_line_relaition.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_detect_object_matchTemplate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_original_image_grayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/24_05_25_Feb_original_image_grayscale_HAN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_calc_matches_knn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_calc_matches_knn_img_rot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_detect_line_CannyHoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_detect_line_HoughJOUKEN-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_detect_line_HoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_detect_line_lsd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_detect_line_lsd2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_detect_object_matchTemplate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_original_image_grayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/25_Feb_2020_original_image_grayscale_HAN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_calc_matches_knn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_calc_matches_knn_img_rot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_detect_line_CannyHoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_detect_line_HoughJOUKEN-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_detect_line_HoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_detect_line_lsd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_detect_line_lsd2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_detect_object_matchTemplate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_original_image_grayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/39_04_25_Feb_original_image_grayscale_HAN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_calc_matches_knn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_calc_matches_knn_img_rot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_detect_line_CannyHoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_detect_line_HoughJOUKEN-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_detect_line_HoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_detect_line_lsd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_detect_line_lsd2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_detect_object_matchTemplate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_original_image_grayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/45_04_25_Feb_original_image_grayscale_HAN.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_calc_matches_knn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_calc_matches_knn_img_rot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_detect_line_CannyHoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_detect_line_HoughJOUKEN-9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_detect_line_HoughLinesP.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_detect_line_lsd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_detect_line_lsd2-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_detect_object_matchTemplate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_original_image_grayscale.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Moji-Image/imgのコピー/59_04_25_Feb_original_image_grayscale_HAN.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1Y6pEBuBY5hhsxHRR4C4e0qlZU0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/momo/res" />
+      <recent name="$USER_HOME$/.local/share/virtualenvs/Moji-NLP/lib/python3.7/site-packages/sudachipy/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ginza-t">
+    <configuration name="ginza-t" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Moji-NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/momo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/momo/ginza-t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="janome-c" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Moji-NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/momo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/momo/janome-c.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="janome-t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Moji-NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/momo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/momo/janome-t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sudachi-def" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Moji-NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/momo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/momo/sudachi-def.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sudachi-t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Moji-NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/momo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/momo/sudachi-t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ginza-t" />
+        <item itemvalue="Python.sudachi-def" />
+        <item itemvalue="Python.sudachi-t" />
+        <item itemvalue="Python.janome-t" />
+        <item itemvalue="Python.janome-c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6082336b-f5d0-473b-bbe6-7588da8f8849" name="Default Changelist" comment="" />
+      <created>1580790967477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580790967477</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1581906219850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581906219850</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first2222">
+      <created>1581906432967</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581906432967</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first2222">
+      <created>1581906865381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581906865381</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first2222sss">
+      <created>1581907215847</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581907215847</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ginza追加">
+      <created>1582275508226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582275508226</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="first" />
+    <MESSAGE value="first2222" />
+    <MESSAGE value="first2222sss" />
+    <MESSAGE value="Ginza追加" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ginza追加" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="65" key="CommitChangelistDialog2" timestamp="1586737909380">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="365" y="65" key="CommitChangelistDialog2/42.23.1398.877@42.23.1398.877" timestamp="1586737909380" />
+    <state width="1377" height="230" key="GridCell.Tab.0.bottom" timestamp="1586737953722">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="678" height="217" key="GridCell.Tab.0.bottom/1440.23.1920.1057/42.23.1398.877@1440.23.1920.1057" timestamp="1582602851109" />
+    <state width="1377" height="230" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1586737953722" />
+    <state width="1377" height="230" key="GridCell.Tab.0.center" timestamp="1586737953722">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="678" height="217" key="GridCell.Tab.0.center/1440.23.1920.1057/42.23.1398.877@1440.23.1920.1057" timestamp="1582602851108" />
+    <state width="1377" height="230" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1586737953722" />
+    <state width="1377" height="230" key="GridCell.Tab.0.left" timestamp="1586737953721">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="678" height="217" key="GridCell.Tab.0.left/1440.23.1920.1057/42.23.1398.877@1440.23.1920.1057" timestamp="1582602851108" />
+    <state width="1377" height="230" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1586737953721" />
+    <state width="1377" height="230" key="GridCell.Tab.0.right" timestamp="1586737953722">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="678" height="217" key="GridCell.Tab.0.right/1440.23.1920.1057/42.23.1398.877@1440.23.1920.1057" timestamp="1582602851109" />
+    <state width="1377" height="230" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1586737953722" />
+    <state x="242" y="100" key="SettingsEditor" timestamp="1582272903522">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="242" y="100" key="SettingsEditor/42.23.1398.877@42.23.1398.877" timestamp="1582272903522" />
+    <state x="341" y="201" key="Vcs.Push.Dialog.v2" timestamp="1582275520566">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="341" y="201" key="Vcs.Push.Dialog.v2/42.23.1398.877@42.23.1398.877" timestamp="1582275520566" />
+  </component>
+</project>
